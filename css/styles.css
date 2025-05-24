@@ -499,10 +499,9 @@ text-align: left;
     display: flex;
     align-items: baseline;
     justify-content: space-between;
-}
-.footer-info {
     margin-right: 120px;
 }
+
 .footer-social {
     display: flex;
     flex-direction: column;
