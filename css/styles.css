@@ -323,7 +323,7 @@ color: #404bbf;
 .social-icon {
     width: 16px;
     height: 16px;
-    fill: #f4f4fd;
+    fill: var(--cloud);
     
     }
 
@@ -495,7 +495,7 @@ text-align: left;
     padding-top: 100px;
     padding-bottom: 100px;
 }
-.footer-conteiner {
+.container {
     display: flex;
     align-items: baseline;
 }
