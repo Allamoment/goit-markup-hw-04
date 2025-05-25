@@ -53,6 +53,7 @@ img {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 15px;
+    flex-direction: column;
 }
 
 .main-header {
@@ -436,7 +437,7 @@ img {
     padding-top: 120px;
     padding-bottom: 120px;
     text-align: center;
-    flex-direction: column;
+    
 }
 
 .portfolio-title {
@@ -448,7 +449,7 @@ img {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
-    flex-direction: column;
+    
 }
 
 .portfolio-list {
