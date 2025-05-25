@@ -206,7 +206,9 @@ img {
     min-height: 600px;
     padding: 188px 0;
 }
-
+.column {
+    flex-direction: column;
+}
 .hero-title {
     font-size: 56px;
     line-height: 1.07;
