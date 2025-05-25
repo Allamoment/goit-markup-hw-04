@@ -485,6 +485,8 @@ img {
 .portfolio-desc {
     position: absolute;
     top: 0;
+    line-height: 1.5;
+     letter-spacing: 0.02em;
     width: 100%;
     height: 100%;
     background-color: rgba(77, 90, 229, 1);
@@ -539,6 +541,7 @@ img {
 .footer-wrapper {
     justify-content: space-between;
     margin-right: 120px;
+    align-items: baseline;
 }
 
 .footer-social {
