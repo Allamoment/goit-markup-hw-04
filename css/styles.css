@@ -537,11 +537,14 @@ img {
     align-items: baseline;
     justify-content: space-between;
 }
+.baseline {
+    align-items: baseline;
+}
 
 .footer-wrapper {
     justify-content: space-between;
     margin-right: 120px;
-    align-items: baseline;
+    
 }
 
 .footer-social {
