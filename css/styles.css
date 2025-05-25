@@ -206,7 +206,7 @@ img {
     min-height: 600px;
     padding: 188px 0;
 }
-.column {
+.container.column {
     flex-direction: column;
 }
 .hero-title {
