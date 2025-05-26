@@ -386,6 +386,9 @@ img {
     text-align: center;
     padding-left: 0;
     padding-right: 0;
+    padding-top: 32px;
+    background-color: #ffffff;
+        
 }
 
 .team-position {
